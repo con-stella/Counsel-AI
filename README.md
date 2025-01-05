@@ -41,9 +41,29 @@
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/%20시연영상%20보기-YouTube-red?style=for-the-badge">
   </a>
+ 
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/시연%20영상%20보기-YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
   </a>
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <!-- 시연 영상 보기 (YouTube 버튼) -->
+  <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
+  </a>
+
+  <!-- 사용 코드 정리 (Notion 버튼) -->
+  <a href="https://www.notion.so/your-page-id" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/사용%20코드%20정리-NOTION-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Button">
+  </a>
+
+  <!-- PDF 다운로드 버튼 -->
+  <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/PDF%20다운로드-CounselAI-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Download Button">
+  </a>
+
 </div>
 
 
