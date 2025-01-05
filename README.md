@@ -33,28 +33,30 @@
 ---
 
 ## 🎥 프로젝트 시연 영상
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E">
-    <img src="https://img.youtube.com/vi/LQqGzVak28E/0.jpg" alt="프로젝트 시연 영상" width="400">
-  </a>
-  <br>
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/%20시연영상%20보기-YouTube-red?style=for-the-badge">
-  </a>
-</div>
-
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/시연%20영상%20보기-skyblue?style=for-the-badge" alt="Details Button">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-DarkGray?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-dimgray?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-gray?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-slategray?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-darkslategray?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-black?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-charcoal?style=for-the-badge" alt="Details Button">
   </a>
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/시연%20영상%20보기-YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
   </a>
 </div>
 
