@@ -64,16 +64,7 @@
     <img src="https://img.shields.io/badge/PDF%20다운로드-gray?style=for-the-badge" alt="download Button">
   </a>
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Counsel%20AI-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pdf Button">
-  </a>
-</div>
-
-<img src="https://img.shields.io/badge/PDF%20다운로드-Counsel%20AI-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides">
-    <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Counsel%20AI-0078D4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Counsel%20AI-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="pdf Button">
   </a>
 </div>
 
