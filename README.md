@@ -11,7 +11,7 @@
  
 - **주요 기능**
 
-  - 4단계로 깊어지는 단계 심화 프로세스 상담
+  - 4단계로 깊어지는 단계 심화 프로세스
   - 선호 목소리로 라포 형성과 몰입 강화
   - 최신 모델/기술을 활용한 자연스러운 대화
   - 자기 전 침대에 누워서도 상담 가능한 접근 용이성
@@ -19,7 +19,7 @@
 - **사용 기술**
 
   - OpenAI API
-  - Coqui TTS(XTTS-v2)
+  - Coqui TTS (XTTS-v2)
   - Python, Flask, ngrok, HTML
 
 - **강화 역량**
@@ -39,18 +39,26 @@
   </a>
   <br>
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/📺%20시연영상%20보기-YouTube-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/%20시연영상%20보기-YouTube-red?style=for-the-badge">
   </a>
-  <strong>👉 <a href="https://www.youtube.com/watch?v=LQqGzVak28E">YouTube에서 시청하기</a></strong>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/%20시연영상%20보기-YouTube-red?style=for-the-badge">
+  </a>
+
+  <span style="font-size: 16px; font-weight: bold;">
+    👉 <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">시연 영상 시청</a>
+  </span>
+</div>
 --- 
 
 ## 📄 프로젝트 문서
 
 <div align="center">
-  <h6>※ PDF로 보시는 것을 추천드립니다<br>
-   (하단 이미지의 품질에 한계가 있습니다)</h6>
+  <h7>※ PDF로 보시는 것을 추천드립니다<br>
+   (하단 이미지의 품질에 한계가 있습니다)</h7>
 </div>
 
 <br>
@@ -62,6 +70,7 @@
 </div>
 
 <br>
+<br> 
 
 <div align="center">
   <!-- 이미지 목록 -->
@@ -109,4 +118,18 @@
   <a href="https://github.com/con-stella">
     <img src="https://img.shields.io/badge/🔗%20GitHub-Profile-black?style=for-the-badge">
   </a>
+</div>
+## 📬 문의
+<div align="center">
+
+  <!-- 이메일 버튼 -->
+  <a href="mailto:infatuate85@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-infatuate85@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <!-- GitHub 버튼 -->
+  <a href="https://github.com/con-stella" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-con-stella-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
 </div>
