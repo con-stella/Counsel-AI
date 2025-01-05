@@ -1,5 +1,5 @@
 # Counsel-AI
-### Deep Learning Progect
+### Deep Learning Project
   **/ DeepVoice / OpenAI API /**
 
 ---
@@ -8,6 +8,13 @@
 - **목적**
 
   - 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
+ 
+- **주요 기능**
+
+  - 4단계로 깊어지는 단계 심화 프로세스 상담
+  - 선호 목소리로 라포 형성과 몰입 강화
+  - 최신 모델/기술을 활용한 자연스러운 대화
+  - 자기 전 침대에 누워서도 상담 가능한 접근 용이성
 
 - **사용 기술**
 
@@ -31,6 +38,9 @@
     <img src="https://img.youtube.com/vi/LQqGzVak28E/0.jpg" alt="프로젝트 시연 영상" width="800">
   </a>
   <br>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/📺%20시연영상%20보기-YouTube-red?style=for-the-badge">
+  </a>
   <strong>👉 <a href="https://www.youtube.com/watch?v=LQqGzVak28E">YouTube에서 시청하기</a></strong>
 </div>
 
@@ -91,5 +101,12 @@
 ---
 
 ## 📬 문의
-- **Email**: [infatuate85@gmail.com](mailto:infatuate85@gmail.com)
-- **GitHub**: [https://github.com/con-stella](https://github.com/con-stella)
+<div align="center">
+  <a href="mailto:infatuate85@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20이메일-infatuate85@gmail.com-blue?style=for-the-badge">
+  </a>
+  <br>
+  <a href="https://github.com/con-stella">
+    <img src="https://img.shields.io/badge/🔗%20GitHub-Profile-black?style=for-the-badge">
+  </a>
+</div>
