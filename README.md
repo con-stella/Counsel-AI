@@ -39,11 +39,10 @@
 ## 📄 프로젝트 문서
 
 <div align="center">
-  <p>
-    <strong style="font-size: 14px; color: gray;">※ PDF로 보시는 것을 추천드립니다</strong><br>
-    <span style="font-size: 12px; color: darkgray;">(하단 이미지의 품질에 한계가 있습니다)</span>
-  </p>
+  <h6>※ PDF로 보시는 것을 추천드립니다</h6>
+  <h6>(하단 이미지의 품질에 한계가 있습니다)</h6>
 </div>
+
 
 
 <div align="center">
