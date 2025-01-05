@@ -28,3 +28,7 @@
 [📄 PDF 바로 보기](./CounselAI__DeepVoice_OpenAIAPI.pdf)
 
 ---
+
+## 📬 문의
+- **Email**: [infatuate85@gmail.com](mailto:infatuate85@gmail.com)
+- **GitHub**: [https://github.com/con-stella](https://github.com/con-stella)
