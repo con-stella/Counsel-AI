@@ -45,6 +45,13 @@
 </div>
 
 <div align="center">
+  <p>
+    <strong>📄 PDF로 보시는 것을 추천합니다</strong><br>
+    <em>(하단 이미지의 품질에 한계가 있습니다)</em>
+  </p>
+</div>
+
+<div align="center">
   <!-- 이미지 목록 -->
   <img src="./Slides/CounselAI__DeepVoice_OpenAIAPI_01.jpg" alt="Slide 01" width="800"><br>
   <img src="./Slides/CounselAI__DeepVoice_OpenAIAPI_02.jpg" alt="Slide 02" width="800"><br>
