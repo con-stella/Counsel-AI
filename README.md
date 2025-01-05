@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides">
-    <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Counsel-AI-0078D4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Counsel%20-%20AI-0078D4?style=for-the-badge">
   </a>
 </div>
 
