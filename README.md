@@ -22,3 +22,9 @@
 **👉 [YouTube에서 시청하기](https://www.youtube.com/watch?v=LQqGzVak28E)**
 
 --- 
+
+## 📄 프로젝트 문서
+### 프로젝트 상세 문서
+[📄 PDF 바로 보기](./CounselAI__DeepVoice_OpenAIAPI.pdf)
+
+---
