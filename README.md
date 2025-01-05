@@ -66,12 +66,14 @@
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Counsel%20AI-FF0000?style=for-the-badge&logo=file&logoColor=white" alt="pdf Button">
   </a>
+  <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" target="_blank" style="text-decoration:none; display: flex; align-items: center; gap: 8px; padding: 10px 20px; background-color: #0078D4; color: white; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; border-radius: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" width="20" height="20">
+  </a>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" target="_blank" style="text-decoration:none; display: flex; align-items: center; gap: 8px; padding: 10px 20px; background-color: #0078D4; color: white; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; border-radius: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" width="20" height="20">
-    PDF 다운로드
   </a>
 </div>
 
