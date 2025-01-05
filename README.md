@@ -1,8 +1,8 @@
 # Counsel-AI
 ## DeepLearning Progect
+**/ DeepVoice / OpenAI API /**
 
-
-### 1️⃣ [딥보이스 활용 심리상담 AI]
+### [딥보이스 활용 심리상담 AI]
 - **목표**: 깊이 있는 심리상담을 선호 목소리로 언제 어디서나 받을 수 있는 서비스 개발
 - **사용 기술**: OpenAI API, Coqui TTS(XTTS-v2), Python, Flask, ngrok, HTML
 - **강화 역량**:
