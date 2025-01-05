@@ -33,6 +33,12 @@
 ---
 
 ## 🎥 프로젝트 시연 영상
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E">
+    <img src="https://img.youtube.com/vi/cWeOfn5hmuQ/0.jpg" alt="프로젝트 시연 영상" width="400">
+  </a>
+</div>
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/시연%20영상%20보기-gray?style=for-the-badge" alt="Details Button">
