@@ -43,22 +43,13 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/%20시연영상%20보기-YouTube-red?style=for-the-badge">
-  </a>
-
-  <span style="font-size: 16px; font-weight: bold;">
-    👉 <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">시연 영상 시청</a>
-  </span>
-</div>
 --- 
 
 ## 📄 프로젝트 문서
 
 <div align="center">
-  <h7>※ PDF로 보시는 것을 추천드립니다<br>
-   (하단 이미지의 품질에 한계가 있습니다)</h7>
+  <h6>※ PDF로 보시는 것을 추천드립니다<br>
+   (하단 이미지의 품질에 한계가 있습니다)</h6>
 </div>
 
 <br>
@@ -110,26 +101,4 @@
 ---
 
 ## 📬 문의
-<div align="center">
-  <a href="mailto:infatuate85@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20이메일-infatuate85@gmail.com-blue?style=for-the-badge">
-  </a>
-  <br>
-  <a href="https://github.com/con-stella">
-    <img src="https://img.shields.io/badge/🔗%20GitHub-Profile-black?style=for-the-badge">
-  </a>
-</div>
-## 📬 문의
-<div align="center">
-
-  <!-- 이메일 버튼 -->
-  <a href="mailto:infatuate85@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-infatuate85@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-
-  <!-- GitHub 버튼 -->
-  <a href="https://github.com/con-stella" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-con-stella-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-infatuate85@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:kairess87@gmail.com) [![GitHub Badge](https://img.shields.io/badge/-con--stella-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/con-stella)](https://github.com/con-stella)
