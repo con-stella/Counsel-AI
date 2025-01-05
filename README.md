@@ -39,16 +39,16 @@
 ## 📄 프로젝트 문서
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides">
-    <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Counsel%20AI-0078D4?style=for-the-badge">
-  </a>
-</div>
-
-<div align="center">
-  <p style="font-size: 10px; color: #555555;">
+  <p style="font-size: 8px; color: #555555;">
     ※ <strong>PDF로 보시는 것을 추천드립니다</strong><br>
     (하단 이미지의 품질에 한계가 있습니다)
   </p>
+</div>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides">
+    <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Counsel%20AI-0078D4?style=for-the-badge">
+  </a>
 </div>
 
 <div align="center">
