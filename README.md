@@ -41,7 +41,12 @@
   <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/%20시연영상%20보기-YouTube-red?style=for-the-badge">
   </a>
+  <a href="https://www.youtube.com/watch?v=LQqGzVak28E" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/시연%20영상%20보기-YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button">
+  </a>
 </div>
+
+
 
 --- 
 
