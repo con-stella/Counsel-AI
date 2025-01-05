@@ -39,11 +39,12 @@
 ## 📄 프로젝트 문서
 
 <div align="center">
-  <p style="font-size: 8px; color: #555555;">
-    ※ <strong>PDF로 보시는 것을 추천드립니다</strong><br>
-    (하단 이미지의 품질에 한계가 있습니다)
+  <p>
+    <strong style="font-size: 14px; color: gray;">※ PDF로 보시는 것을 추천드립니다</strong><br>
+    <span style="font-size: 12px; color: darkgray;">(하단 이미지의 품질에 한계가 있습니다)</span>
   </p>
 </div>
+
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides">
