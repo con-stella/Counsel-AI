@@ -1,5 +1,5 @@
 # Counsel-AI
-## DeepLearning Progect
+### DeepLearning Progect
   **/ DeepVoice / OpenAI API /**
 
 ### [딥보이스 활용 심리상담 AI]
