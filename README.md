@@ -20,7 +20,7 @@
 
   - OpenAI API
   - Coqui TTS (XTTS-v2)
-  - Python, Flask, ngrok, HTML
+  - Python / Flask / ngrok / HTML
 
 - **강화 역량**
 
