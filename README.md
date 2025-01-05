@@ -39,17 +39,20 @@
 ## 📄 프로젝트 문서
 
 <div align="center">
-  <h6>※ PDF로 보시는 것을 추천드립니다</h6>
-  <h6>(하단 이미지의 품질에 한계가 있습니다)</h6>
+  <h6>※ PDF로 보시는 것을 추천드립니다<br>
+   (하단 이미지의 품질에 한계가 있습니다)</h6>
 </div>
 
-
+<br>
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" download="CounselAI_slides">
     <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Counsel%20AI-0078D4?style=for-the-badge">
   </a>
 </div>
+
+
+
 
 <div align="center">
   <!-- 이미지 목록 -->
