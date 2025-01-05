@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/PDF%20다운로드-gray?style=for-the-badge" alt="download Button">
   </a>
   <a href="https://raw.githubusercontent.com/con-stella/Counsel-AI/main/Slides/CounselAI__DeepVoice_OpenAIAPI.pdf" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Counsel%20AI-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="pdf Button">
+    <img src="https://img.shields.io/badge/Counsel%20AI-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pdf Button">
   </a>
 </div>
 
